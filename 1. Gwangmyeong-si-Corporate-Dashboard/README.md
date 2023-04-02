@@ -28,5 +28,7 @@
 - 오른쪽 하단의 파이차트를 클릭(다중 선택 가능)하면, 해당 특징을 가진 기업들에 대한 정보만 추출됩니다. 
 
 ### 관련 기사
-[광명시, 빅데이터 기반 지역 경제 파악](https://www.aitimes.com/news/articleView.html?idxno=120287)
+[광명시, 빅데이터 기반 지역 경제 파악](https://www.aitimes.com/news/articleView.html?idxno=120287) 
+
+
 ![gwangmyeong3](https://user-images.githubusercontent.com/90254892/229353262-c1cefb8f-e60f-4125-a144-7488be935730.jpg)
