@@ -16,11 +16,12 @@
 ![covid](https://user-images.githubusercontent.com/90254892/229355989-9c2289a4-af05-4fbe-9012-82ab471460cc.png)
 - 코로나19 발생현황 및 추이를 실시간으로 확인할 수 있습니다.
 
-![consumer](https://user-images.githubusercontent.com/90254892/229357119-9cee724a-df50-4eee-b519-8c6938f4d22f.png)
+![consumer](https://user-images.githubusercontent.com/90254892/229357486-0e4d6274-7d2a-4ff0-8a72-5fdde06c79b3.png)
+
 - 코로나 발생 이후 2019년 소비액 대비 2020년 소비가 저조한 현상이 발생합니다. 
 - 2020년 5월 11일 전 국민 재난지원금 지급 이후 일시적 소비 회복세가 보였으나, 다시 하락세가 나타납니다.
 - 2019년 대비 소비 하락세인 업종은 외출과 관련된 주유, 자동차, 여행/교통 입니다.
 - 2019년 대비 소비 증가세인 업종은 가정생활 및 서비스 분야, 스포츠 분야 입니다.
 
-### 활용
+### 관련 발표
 [2020 디지털정부 클라우드 컨퍼런스 : 논산시 빅데이터 통합 플랫폼](https://www.youtube.com/watch?v=U3CNzKocvPY)
