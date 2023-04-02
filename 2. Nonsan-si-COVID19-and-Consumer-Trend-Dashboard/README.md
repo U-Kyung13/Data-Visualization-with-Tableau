@@ -13,8 +13,7 @@
 - QGIS
 
 ### 대시보드 예시
-<covid src="https://user-images.githubusercontent.com/90254892/229355989-9c2289a4-af05-4fbe-9012-82ab471460cc.png">
-
+![covid](https://user-images.githubusercontent.com/90254892/229355989-9c2289a4-af05-4fbe-9012-82ab471460cc.png)
 
 
 
