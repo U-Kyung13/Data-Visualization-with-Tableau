@@ -16,5 +16,8 @@
 ![covid](https://user-images.githubusercontent.com/90254892/229355989-9c2289a4-af05-4fbe-9012-82ab471460cc.png)
 - 코로나19 발생현황 및 추이를 확인할 수 있습니다.
 
+![consumer](https://user-images.githubusercontent.com/90254892/229356949-63e02571-2557-4a68-8df3-2b70961cfddb.png)
+- 전년대비 매출 증감율을 확인할 수 있습니다. 
+
 ### 활용
 [2020 디지털정부 클라우드 컨퍼런스 : 논산시 빅데이터 통합 플랫폼](https://www.youtube.com/watch?v=U3CNzKocvPY)
