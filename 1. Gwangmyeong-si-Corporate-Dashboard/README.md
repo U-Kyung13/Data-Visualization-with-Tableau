@@ -29,6 +29,3 @@
 
 ### 관련 기사
 [광명시, 빅데이터 기반 지역 경제 파악](https://www.aitimes.com/news/articleView.html?idxno=120287) 
-
-
-![gwangmyeong3](https://user-images.githubusercontent.com/90254892/229353262-c1cefb8f-e60f-4125-a144-7488be935730.jpg)
